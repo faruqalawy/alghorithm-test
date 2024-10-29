@@ -1,0 +1,1 @@
+Rumus untuk jumlah angka dari 0 hingga n adalah n(n+1)/2. Dengan mengurangkan jumlah yang dihitung dari array dari jumlah yang diharapkan, kita dapat menemukan angka yang hilang.

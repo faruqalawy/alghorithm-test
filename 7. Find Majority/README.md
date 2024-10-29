@@ -1,0 +1,1 @@
+Kode ini menggunakan Algoritma Suara Boyer-Moore. Ia menginisialisasi variabel candidate dan count. Count akan meningkat ketika elemen saat ini sama dengan kandidat dan berkurang sebaliknya.

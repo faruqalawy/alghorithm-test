@@ -1,0 +1,1 @@
+Kita mengubah string menjadi huruf kecil dan menggunakan filter untuk menghitung karakter yang merupakan vokal. Hasilnya adalah total jumlah vokal yang ditemukan dalam string.

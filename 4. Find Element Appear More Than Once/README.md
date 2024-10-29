@@ -1,0 +1,1 @@
+Kita menggunakan objek counts untuk menghitung jumlah kemunculan setiap angka dalam array. Setelah itu, kita memeriksa objek tersebut untuk menemukan angka-angka yang memiliki jumlah lebih dari 1, dan memasukkannya ke dalam array duplicates.

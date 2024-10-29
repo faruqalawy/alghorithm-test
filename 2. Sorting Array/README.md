@@ -1,0 +1,1 @@
+Metode .sort() digunakan untuk mengurutkan array. Kita memberikan fungsi perbandingan (a, b) => a - b agar bilangan diurutkan dalam urutan naik.
